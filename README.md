@@ -1,4 +1,4 @@
-<h1>Hi, Christopher, an <a href="https://github.comChrisC004">IT Professional</a>☺</h1>
+<h1>Hi, Christopher, an <a href="https://github.com/ChrisC004/ChrisC004/edit/main/README.md">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
